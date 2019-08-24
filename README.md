@@ -20,12 +20,12 @@ On both tables we droped duplicates in case their exists with the id of the orig
 - **Apple** -- **Google**
 - Book --  BOOKS_AND_REFERENCE
 - Business -- BUSINESS
-- Catalogs -- no se
+- Catalogs -- SHOPPING
 - Education -- EDUCATION
 - Entertainment -- ENTERTAINMENT
 - Finance -- FINANCE
 - Food & Drink -- FOOD_AND_DRINK
-- Games -- GAMES (todos jaja)
+- Games -- GAMES
 - Health & Fitness -- HEALTH_AND_FITNESS
 - Lifestyle -- LIFESTYLE
 - Medical -- MEDICAL
