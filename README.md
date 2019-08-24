@@ -44,6 +44,6 @@ On both tables we droped duplicates in case their exists with the id of the orig
 
 ## Load
 
-Using Python, JUpyter Notebooks, Sqlalchemy, Pgadmin 4 and Pandas, we loaded our database directly from the jupyter file. The main datasets were divided into smaller dataframes that consisted of one category per dataframe. The connection to the database was made using Sqlalchemy and each table was uploaded automatically.
+Using Python, Jupyter Notebooks, Sqlalchemy, Pgadmin 4 and Pandas, we loaded our database directly from the jupyter file. The main datasets were divided into smaller dataframes that consisted of one category per dataframe. The connection to the database was made using Sqlalchemy and each table was uploaded automatically.
 
 If further analysis of the datasets needs to be made, the user can access to the databases created and filter or join the tables in order to find data such as a comparison between the average prices per category of each company, total app count, etc.
